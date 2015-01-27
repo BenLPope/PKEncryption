@@ -11,6 +11,5 @@ The message reads:
 
 The RSA algorithm, described in Reference 13, uses modular arithmetic and the  factorization of very large numbers.  The ciphertext is surprisingly easy to calculate and very difficult to break, even when Ek is known.  The concept of public-key cryptography evolved from an attempt to attack two of the most difficult problems associated with conventional encryption. The first problem is that of key distribution.  It requires that two communicants either (1) already share a key, or (2) have the use of a key distribution center.  The second problem was that of digital signatures.
 
-To use, compile and run 
-a.out > out.txt
+To use, compile and run a.out > out.txt 
 The message can be viewed in out.txt
